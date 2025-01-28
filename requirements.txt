@@ -1,0 +1,6 @@
+igraph
+numpy
+pandas
+matplotlib
+mesa
+networkx
