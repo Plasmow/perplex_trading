@@ -4,3 +4,6 @@ pandas
 matplotlib
 mesa
 networkx
+random
+scipy
+
